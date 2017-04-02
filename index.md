@@ -17,6 +17,8 @@ GenisysPro是一个基于 **[Genisys](https://github.com/iTXTech/Genisys)** 的�
 * Windows 10 Edition Beta支持
 * 信标!
 * 文件夹插件加载器
+* 铁砧
+
 然而,Genisys还有很长的一段路要走.我们欢迎贡献者![Need Help!!!](https://github.com/GenisysPro/GenisysPro)
 
 帮助 & 支持
