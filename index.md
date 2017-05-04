@@ -11,7 +11,7 @@ __多功能服务器软件For Minecraft: Pocket Edition & Windows 10 Edition Bet
 GenisysPro是一个基于 **[Genisys](https://github.com/iTXTech/Genisys)** 的服务器软件.大多数功能由iTXTech编写.<br>
 一些特色功能:
 
-* 1.0.0-1.0.4全版本(如需1.0.5支持请下载[BetaTester](https://github.com/GenisysPro/BetaTester))
+* 1.0.5-1.0.7全版本(完美兼容)
 * 继承更多API
 * XBox登录验证
 * Windows 10 Edition Beta支持
@@ -28,7 +28,7 @@ GenisysPro是一个基于 **[Genisys](https://github.com/iTXTech/Genisys)** 的�
 获取GenisysPro
 -------------
 * 下载最新构建 [Gitlab CI](https://gitlab.com/GenisysPro/GenisysPro/builds).
-* 安装介绍 [wiki](https://github.com/iTXTech/Genisys/wiki).
+* 安装介绍 [wiki](https://github.com/GenisysPro/GenisysPro/wiki).
 * PHP 运行库和其他在 [这里](https://itxtech.org/genisys/get/).
 
 
@@ -43,7 +43,6 @@ _所有其他分支都在测试中,也许它们是不稳定的. 不要使用其�
 工具
 -------------
 * [Pocket Server](https://github.com/fengberd/MinecraftPEServer) - 在安卓设备上运行 PocketMine-MP/Nukkit
-* [BetaTester](https://github.com/GenisysPro/BetaTester) - 1.0.5玩家加入GenisysPro服务器(1.0.0-1.0.4)
 
 
 Licence
